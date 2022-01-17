@@ -12,7 +12,7 @@ import java.util.List;
 
 public class JSharePackage implements ReactPackage {
 
-    public JSharePackage(boolean toastFlag, boolean logFlag) {
+    public JSharePackage(boolean toastFlag = false, boolean logFlag = false) {
         Logger.SHUTDOWNTOAST = toastFlag;
         Logger.SHUTDOWNLOG = logFlag;
     }

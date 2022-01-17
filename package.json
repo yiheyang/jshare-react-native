@@ -1,6 +1,6 @@
 {
-  "name": "jshare-react-native",
-  "version": "1.4.2",
+  "name": "@yiheyang/jshare-react-native",
+  "version": "1.4.3",
   "description": "JShare SDK for react native application",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jpush/jshare-react-native.git"
+    "url": "git+https://github.com/yiheyang/jshare-react-native.git"
   },
   "keywords": [
     "JShare",
@@ -21,9 +21,9 @@
   "author": "KenChoi,HuminiOS",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jpush/jshare-react-native/issues"
+    "url": "https://github.com/yiheyang/jshare-react-native/issues"
   },
-  "homepage": "https://github.com/jpush/jshare-react-native#readme",
+  "homepage": "https://github.com/yiheyang/jshare-react-native#readme",
   "rnpm": {
     "ios": {
       "sharedLibraries": [

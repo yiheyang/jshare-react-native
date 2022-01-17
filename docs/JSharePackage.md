@@ -1,6 +1,9 @@
 # Add JSharePackage
 
-> your project/android/app/src…/MainApplication.java
+2022.1.17 由于修改了构造函数，这个文件不再需要手动修改，并支持自动link。
+
+Deprecated:
+> ~~your project/android/app/src…/MainApplication.java~~
 
 ```
 
